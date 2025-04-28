@@ -19,8 +19,7 @@
 - 🌱 I'm learning **Advanced Cloud Architecture & DevOps**
 - 💬 Ask me about **React, Node.js, and Cloud Technologies**
 - 📫 Reach me at **karankamble7919@gmail.com**
-- 👨‍💻 All of my projects are available at [my portfolio](#) <!-- Add your portfolio link when available -->
-- 📄 Know about my experiences [my resume](#) <!-- Add your resume link when available -->
+
 
 ## 🏆 GitHub Trophies
 <p align="center">
@@ -63,12 +62,16 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karan7687&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karan7687&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karan7687&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="45%" />
+  
+  <!-- Enhanced streak stats with additional parameters -->
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=karan7687&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&exclude_days=Sun%2CSat&card_width=500" alt="GitHub Streak Stats" width="45%" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan7687&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan7687&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="40%" />
 </div>
 
 ## 📈 Activity Graph
