@@ -61,14 +61,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karan7687&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="45%" />
-  
-  <!-- Enhanced streak stats with fixed parameters -->
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=karan7687&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500" alt="GitHub Streak Stats" width="45%" />
-  </a>
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan7687&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="40%" />
@@ -81,12 +74,7 @@
   </a>
 </p>
 
-## 🔝 Top Contributed Repositories
-<p align="center">
-  <a href="https://github.com/karan7687?tab=repositories">
-    <img src="https://github-contributor-stats.vercel.app/api?username=karan7687&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
-  </a>
-</p>
+
 
 ## 🌐 Connect with me
 <p align="center">
