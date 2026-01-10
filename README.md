@@ -7,26 +7,18 @@
     <img src="https://img.shields.io/badge/Cloud-GCP%20Certified-orange" />
     <img src="https://komarev.com/ghpvc/?username=karan7687&label=Profile%20views&color=0e75b6&style=flat" alt="karan7687" />
   </p>
-  
-  <img src="https://camo.githubusercontent.com/88adc7c88c9d3dba7479020846ed35d13410e3707c7f149e1c6140cc6beaef9a/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" width="400" />
-</div>
+
 
 ## 💫 About Me
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I'm currently working on the **Google Cloud Career Launchpad Program**
-- 🌱 I'm learning **Advanced Cloud Architecture & DevOps**
-- 💬 Ask me about **React, Node.js, and Cloud Technologies**
+- 🔭 I'm currently working @**(Intern) RSL SOLUTIONS PUNE**
+- 🌱 I'm learning **React Native, WordPress, Cloud Architecture & DevOps**
+- 💬 Ask me about **React, Node.js, and JAVA**
 - 📫 Reach me at **karankamble7919@gmail.com**
 
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=karan7687&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1" alt="karan7687" />
-  </a>
-</p>
 
 ## 🛠️ Tech Stack
 
@@ -59,13 +51,6 @@
   </p>
 </details>
 
-## 📊 GitHub Stats
-
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan7687&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="40%" />
-</div>
 
 ## 📈 Activity Graph
 <p align="center">
