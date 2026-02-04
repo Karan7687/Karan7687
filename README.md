@@ -14,7 +14,7 @@
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I'm currently working @**(Intern) RSL SOLUTIONS PUNE**
-- 🌱 I'm learning **React Native, WordPress, Cloud Architecture & DevOps**
+- 🌱 I'm learning **React Native, WordPress, Cloud Architecture & System Design**
 - 💬 Ask me about **React, Node.js, and JAVA**
 - 📫 Reach me at **karankamble7919@gmail.com**
 
