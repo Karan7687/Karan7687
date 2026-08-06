@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Karan+Kamble;Full-Stack+Developer;Backend+-focused;Cloud+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Karan+Kamble;Backend+-focused;Cloud+Enthusiast;Problem+Solver" alt="Typing SVG" />
   
   <p align="center">
-    <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen" />
-    <img src="https://img.shields.io/badge/Languages-Java%2C%20JavaScript-blue" />
+    <img src="https://img.shields.io/badge/Focus-backend%20Development-brightgreen" />
+    <img src="https://img.shields.io/badge/Languages-Java%2C%20-blue" />
     <img src="https://komarev.com/ghpvc/?username=karan7687&label=Profile%20views&color=0e75b6&style=flat" alt="karan7687" />
   </p>
 
@@ -12,9 +12,8 @@
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I'm currently working @**(Intern) RSL SOLUTIONS PUNE**
-- 🌱 I'm learning **Distributed Systems, Cloud Architecture & System Design**
-- 💬 Ask me about **Java, Node.js, JS**
+- 🔭 I'm currently working @**HDFC Life**
+- 🌱 I'm learning **Distributed Backend Systems, Spring boot & System Design**
 - 📫 Reach me at **karankamble7919@gmail.com**
 
 
